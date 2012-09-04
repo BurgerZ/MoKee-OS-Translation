@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_long_press_menu">
+        <item>Нет</item>
+        <item>Вирт. клавиатура</item>
+        <item>Поиск</item>
+        <item>Пользоват. приложение</item>
+        <item>Перекл. строку состояния</item>
+    </string-array>
+    <string-array name="entries_network_widget">
+        <item>2G/3G+2G</item>
+        <item>Только 2G/3G</item>
+        <item>2G/3G Только/3G+2G</item>
+    </string-array>
+    <string-array name="entries_screentimeout_widget">
+        <item>15сек/1мин/5мин</item>
+        <item>30сек/2мин/5мин</item>
+    </string-array>
+    <string-array name="entries_flash_widget">
+        <item>Обычный</item>
+        <item>Полная яркость</item>
+    </string-array>
+    <string-array name="entries_mobiledatanetwork_widget">
+        <item>Выкл.</item>
+        <item>Вкл.</item>
+    </string-array>
+    <string-array name="BaseBandName">
+        <item>Defy South Korea SKT 3.4.2-74</item>
+        <item>MS2 China 1.10</item>
+        <item>MS2 Argentina 3.12.0</item>
+        <item>MS2 Australia Vodafone_2.2.19</item>
+        <item>MS2 Brazil 3.12.0</item>
+        <item>MS2 EU 2.2.16</item>
+        <item>MS2 HK 2.4.18 EU 2.4.24</item>
+        <item>Defy+ China 4.5.3-109</item>
+        <item>Defy+ China 4.5.3-66</item>
+        <item>MS2 China0.24</item>
+        <item>MS2 China 2.5_2.6_2.10_4.5.3-63_77</item>
+        <item>Defy US T-Mobile 3.4.2-107-4</item>
+        <item>Defy US T-Mobile 3.4.2-107-9</item>
+        <item>Defy US T-Mobile 6.xx.0</item>
+        <item>Defy Australia Telstra 2.26.0</item>
+        <item>Defy Brazil Claro 3.4.2_107-7</item>
+        <item>Defy Brazil Claro 6.14.5</item>
+        <item>Defy Brazil Vivo 3.4.2_107-9</item>
+        <item>Defy China 2.5.0_2.6.0_2.10.0</item>
+        <item>Defy China RT 0.26.0_1.11.0</item>
+        <item>Defy International RT 2.5x</item>
+        <item>Defy Australia OPTUS 3.4.2-145</item>
+        <item>Defy Central EU, DE, Austria, Switzerland, FR, HK, TW, Poland 2.51.x Arabia 2.54.0</item>
+        <item>Defy Central EU, HK, Taiwan, Arabia, France, Nordic 3.4.x UK 4.5.1-85</item>
+        <item>Defy Central Europe RT 2.34.0</item>
+        <item>Defy Europe RT 3.4.2-145</item>
+        <item>Defy France Germany, Austria, Switzerland RT 2.21.0</item>
+        <item>Defy France Orange 3.4.2_164-5</item>
+        <item>Defy France Vodafone 3.4.2_164-3</item>
+        <item>Defy Hong Kong, Taiwan Optus SEA 2.59.0</item>
+        <item>Defy Italia RT 2.51.1</item>
+        <item>Defy Poland Orange 2.51.1</item>
+        <item>Defy Poland Orange 3.4.2-131</item>
+        <item>Defy United Kingdom RT 2.51.1</item>
+        <item>Defy United Kingdom RT 3.4.2-117</item>
+        <item>Defy United Kingdom RT 3.4.3-3</item>
+        <item>Defy United Kingdom RT 3.4.3-11</item>
+        <item>Defy United Kingdom T-Mobile 2.21.0</item>
+        <item>Defy United Kingdom T-Mobile 2.51.1</item>
+        <item>Defy Argentina Claro 3.4.2_107-9</item>
+        <item>Defy Argentina Personal 3.4.2_107-7</item>
+        <item>Defy Argentina RT 6.14.7</item>
+        <item>Defy Sououth East Asia, South Africa RT SEA15 3.4.3-33-1</item>
+        <item>Defy Spain Vodafone 179.4.4</item>
+        <item>Defy United Kingdom T-Mobile 179.6.1</item>
+        <item>Defy United Kingdom RT 4.5.1-134</item>
+    </string-array>
+    <string-array name="BaseBandAbility">
+        <item>Частотный диапазон: 2100MHz</item>
+        <item>Частотный диапазон: 850/1900/2100MHz</item>
+        <item>Частотный диапазон: 850/1900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 850/1900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 850/2100MHz</item>
+        <item>Частотный диапазон: 850/2100MHz</item>
+        <item>Частотный диапазон: 850/1900/2100MHz</item>
+        <item>Частотный диапазон: 850/1900/2100MHz</item>
+        <item>Частотный диапазон: 850/1700/2100MHz</item>
+        <item>Частотный диапазон: 850/1700/2100MHz</item>
+        <item>Частотный диапазон: 850/1700/2100MHz</item>
+        <item>Частотный диапазон: 850/2100MHz</item>
+        <item>Частотный диапазон: 850/2100MHz</item>
+        <item>Частотный диапазон: 850/2100MHz</item>
+        <item>Частотный диапазон: 850/2100MHz</item>
+        <item>Частотный диапазон: 850/2100MHz</item>
+        <item>Частотный диапазон: 850/2100MHz</item>
+        <item>Частотный диапазон: 850/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 850/1900MHz</item>
+        <item>Частотный диапазон: 850/1900MHz</item>
+        <item>Частотный диапазон: 850/1900MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+        <item>Частотный диапазон: 900/2100MHz</item>
+    </string-array>
+    <string-array name="Google_Mobile_Service_Name">
+        <item>GoogleServicesFramework</item>
+        <item>GoogleBackupTransport</item>
+        <item>GoogleCalendarSyncAdapter</item>
+        <item>GoogleContactsSyncAdapter</item>
+        <item>GoogleFeedback</item>
+        <item>GooglePartnerSetup</item>
+        <item>GoogleQuickSearchBox</item>
+        <item>BooksPhone</item>
+        <item>CarHomeGoogle</item>
+        <item>FOTAKill</item>
+        <item>GenieWidget</item>
+        <item>LatinImeTutorial</item>
+        <item>MarketUpdater</item>
+        <item>MediaUploader</item>
+        <item>NetworkLocation</item>
+        <item>OneTimeInitializer</item>
+        <item>SetupWizard</item>
+        <item>Talk</item>
+        <item>Gmail</item>
+        <item>Maps</item>
+        <item>Street</item>
+        <item>Vending</item>
+        <item>VoiceSearch</item>
+    </string-array>
+</resources>

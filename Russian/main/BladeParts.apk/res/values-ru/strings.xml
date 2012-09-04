@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калибровка сенсора приближения</string>
+    <string name="prox_calibration_title_head">Калибровка сенсора приближения</string>
+    <string name="prox_calibration_summary_head">Не прикасайтесь к экрану во время работы</string>
+    <string name="prox_display_title_head">Отобразить настройки сенсора приближения</string>
+    <string name="prox_display_summary_head">Посмотреть данные калибровки сенсора</string>
+    <string name="toast_error">Ошибка</string>
+    <string name="back_button">Назад</string>
+    <string name="prox_restore_title_head">Восстановить настройи по умолчанию</string>
+    <string name="prox_restore_summary_head">Удалить данные калибровки (Необходима перезагрузка).</string>
+    <string name="delete_success">Настройки сброшены на заводские. Перезагрузите телефон.</string>
+    <string name="delete_error">Ошибка сброса настроек.</string>
+    <string name="delete_no_file">Заводские настройки уже используются.</string>
+    <string name="usb_charging_title_head">Зарядка по USB</string>
+    <string name="usb_charging_summary_head">Разрешить/Запретить зарядку</string>
+    <string name="successfully_calibrated_proximity_sensor">Калибровка завершена</string>
+</resources>

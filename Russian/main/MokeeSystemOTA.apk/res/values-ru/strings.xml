@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloading_progress">Прогресс</string>
+    <string name="server_error">Ошибка подключения</string>
+    <string name="connect_time_out">Истек таймаут ожидания</string>
+    <string name="no_net">Нет сетевого подключения</string>
+    <string name="no_sdcard">Карта памяти отсутствует, вставте sd карту.</string>
+    <string name="checking_update">Проверка обновлений</string>
+    <string name="check_update">Проверить обновления</string>
+    <string name="name">Обновление системы</string>
+    <string name="restart">Перезаппустить обновление</string>
+    <string name="app_name">VersionControl</string>
+    <string name="cancel_download">Отмена</string>
+    <string name="download">Начать загрузку</string>
+    <string name="already_lastest">Вы используете последнюю версию Mokee OS</string>
+    <string name="no_search_yet">Поиск обновлений ещё не производился</string>
+    <string name="enter_update">Обновить прямо сейчас</string>
+    <string name="update_detail">Детали обновления</string>
+    <string name="no_update_detail">Детали обновления не найдены, отсутсвует подключение к сети.</string>
+    <string name="update_notice_backup">Это действие может привести к потере данных, пожалуйста, сделайте резервную копию перед обновлением.</string>
+    <string name="update_notice_mobiledata">Загрузка данных будет происходить через мобильную сеть, желательно загружать с помощью WI-FI.</string>
+    <string name="create_floder_failure">Ошибка создания папки, попробуйте ещё раз.</string>
+    <string name="file_ready_sd">Файлы загружены на SD карту.</string>
+    <string name="download_finished">Загрузка завершена</string>
+    <string name="warning">Осторожно</string>
+    <string name="warning_content_1">the power has only</string>
+    <string name="warning_content_2">%, update has risk,please charge!</string>
+    <string name="update">Обновление</string>
+    <string name="update_version">Версия обновлена</string>
+    <string name="server_problem">Ошибка сервера, попробуйте позже!</string>
+    <string name="version_remarks">Version remarks</string>
+    <string name="change">Выбрать</string>
+    <string name="rom_settings">ROM Settings</string>
+    <string name="download_progress">Прогресс загрузки:</string>
+    <string name="update_time_setting">Выбор периода автоматической проверки</string>
+    <string name="select_update_cycle">Автоматическая ппроверка</string>
+    <string name="settings">Настройки</string>
+    <string name="mokee_os_notice">Уведомление об обновлении</string>
+    <string name="mokee_os_notice_details">Найдены пакеты обновления</string>
+    <string name="update_cycle_value_default">1</string>
+</resources>

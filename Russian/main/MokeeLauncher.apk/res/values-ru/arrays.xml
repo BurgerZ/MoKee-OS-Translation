@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_binding_entries">
+        <item>NONE</item>
+        <item>Перейти к стандартному столу</item>
+        <item>Перейти к стандартному столу/Предпросмотр</item>
+        <item>Предпросмотр</item>
+        <item>Открыть/Закрыть меню приложений</item>
+        <item>Отобразить/Скрыть статусбар</item>
+        <item>Открыть/Закрыть уведомления</item>
+        <item>Перейти к стандартному рабочему столу/Открыть уведомления</item>
+        <item>Открыть/Закрыть DockBar</item>
+        <item>Открыть приложение...</item>
+    </string-array>
+    <string-array name="desktop_indicator_entries">
+        <item>Dot paginator top</item>
+        <item>Sliding paginator top</item>
+        <item>Sliding paginator bottom</item>
+    </string-array>
+    <string-array name="desktop_transition_entries">
+        <item>Стандарт</item>
+        <item>Вращение</item>
+        <item>Страница</item>
+        <item>Куб</item>
+        <item>Разброс</item>
+    </string-array>
+    <string-array name="home_orientation_entries">
+        <item>Автоматически/Сенсор</item>
+        <item>Альбомный</item>
+        <item>Книжный</item>
+    </string-array>
+    <string-array name="screen_cache_entries">
+        <item>Низкое качество</item>
+        <item>Автоматически</item>
+        <item>Отключено</item>
+    </string-array>
+    <string-array name="main_dock_entries">
+        <item>Нет (Расширить рабочий стол)</item>
+        <item>3 Иконки</item>
+        <item>5 Иконки</item>
+        <item>1 Иконка</item>
+        <item>4 Иконки</item>
+    </string-array>
+    <string-array name="deletezone_entries">
+        <item>Нет</item>
+        <item>Сверху</item>
+        <item>Снизу</item>
+        <item>Сверху (Сжать рабочий стол)</item>
+        <item>Снизу (Сжать рабочий стол)</item>
+    </string-array>
+    <string-array name="app_drawer_style_entries">
+        <item>Вертикальная плоскость</item>
+        <item>Горизонтальная постраничная</item>
+    </string-array>
+    <string-array name="menu_binding_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="desktop_indicator_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="desktop_transition_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="home_orientation_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="screen_cache_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="main_dock_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="deletezone_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="app_drawer_style_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <array name="extra_wallpapers" />
+</resources>

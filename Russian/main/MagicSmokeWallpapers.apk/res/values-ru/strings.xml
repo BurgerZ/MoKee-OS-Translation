@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">Magic Smoke Wallpapers</string>
+    <string name="wallpaper_magicsmoke">Волшебный дым</string>
+    <string name="author">Google</string>
+    <string name="magicsmoke_desc">Отображение дыма, облаков, воды и плазмы.</string>
+    <string name="ok">OK</string>
+    <string name="taptochange">Нажмите на экран для изменения обоев</string>
+</resources>

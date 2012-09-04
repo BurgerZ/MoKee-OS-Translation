@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="extra_wallpapers" />
+    <string-array name="wallpapers">
+        <item>wallpaper_cloud</item>
+        <item>wallpaper_desert</item>
+        <item>wallpaper_stone</item>
+        <item>wallpaper_wave</item>
+        <item>wallpaper_wheat</item>
+        <item>wallpaper_flower_a</item>
+        <item>wallpaper_flower_b</item>
+        <item>wallpaper_beauty_a</item>
+        <item>wallpaper_beauty_b</item>
+        <item>wallpaper_imagine</item>
+        <item>wallpaper_rain</item>
+        <item>wallpaper_sea</item>
+        <item>wallpaper_antarctica</item>
+        <item>wallpaper_canada</item>
+        <item>wallpaper_coffee</item>
+        <item>wallpaper_cold</item>
+        <item>wallpaper_digitalmap</item>
+        <item>wallpaper_euro</item>
+        <item>wallpaper_farm</item>
+        <item>wallpaper_hexagonal</item>
+        <item>wallpaper_music</item>
+        <item>wallpaper_robotburble</item>
+        <item>wallpaper_robotrail</item>
+        <item>wallpaper_robotwalk</item>
+        <item>wallpaper_south_america</item>
+    </string-array>
+    <string-array name="info">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
